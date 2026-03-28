@@ -240,14 +240,7 @@ This will remove installed files and firewall rules created by **IP Blocker**.
 
 ---
 
-# Future Improvements
 
-* Email or Slack attack notifications
-* Web dashboard for monitoring attacks
-* Integration with threat intelligence feeds
-* Advanced anomaly detection mechanisms
-
----
 
 
 
